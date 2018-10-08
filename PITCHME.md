@@ -1,14 +1,10 @@
-# Flux 
-
-An application architecture for React
+# GitLab 
 
 ---
 
-### Flux Design
-
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+# Работа с репозиторием в команде
+Вопросы которые возникают:
+- Как вести изменения
 
 ---
 
